@@ -20,12 +20,12 @@
 
 ### 图片上传
 
-- git remote add origin <https://gitee.com/future-hu/images.git>
+- git remote add origin <https://gitee.com/Sentaku1129/images.git>
 - git push -u origin "master"
 
 ### 图片使用  
 
-> <https://gitee.com/future-hu/images/raw/master/图片路径>
+> <https://gitee.com/Sentaku1129/images/raw/master/图片路径>
 
 ## 不需要的图片删除
 
